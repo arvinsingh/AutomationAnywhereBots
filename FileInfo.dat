@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="bse_india.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/30/2018 10:54:16</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="BSC_Tele_no.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/30/2018 11:11:03</Property>
+      <Property Name="RunDuration">00:00:15</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="pcs_techg.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/30/2018 11:37:55</Property>
+      <Property Name="RunDuration">00:00:17</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="autofill_cont.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 10:07:08</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="emp_data.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/30/2018 13:16:54</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="file2var.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/30/2018 13:23:39</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ter.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/30/2018 13:25:19</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="csv2xlsx.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 10:18:49</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="elsx2var.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 10:58:07</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="testxls2cvs.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 11:12:59</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="xlsx2mdb.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 11:37:48</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="submit.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 12:08:50</Property>
+      <Property Name="RunDuration">00:00:28</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="test4mdb2web.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 12:54:18</Property>
+      <Property Name="RunDuration">00:00:50</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="accessDir.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/31/2018 13:08:15</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="folderOperations.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/01/2018 10:02:41</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="StringOps.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/01/2018 11:53:20</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="mail_read.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/01/2018 13:03:09</Property>
+      <Property Name="RunDuration">00:00:17</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SEND_IT.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/02/2018 10:31:19</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="delete_mails.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/01/2018 13:19:26</Property>
+      <Property Name="RunDuration">00:00:55</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="strOps_split.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/02/2018 10:50:56</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Addition.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/02/2018 10:57:44</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="selfDestruct.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/02/2018 12:23:34</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ErrHandling.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/02/2018 12:19:24</Property>
+      <Property Name="RunDuration">00:00:35</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UseCase1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/02/2018 15:12:26</Property>
+      <Property Name="RunDuration">00:00:34</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
