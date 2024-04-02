@@ -1,0 +1,18 @@
+1st NAME:John1
+2nd NAME:Johnson
+Phone:   9876543211
+EMAIL:   John@AA.com
+STREET:  16,Velocity Street
+
+1st NAME:Shwan2
+2nd NAME:Wayne
+Phone:   9326598745
+EMAIL:   Wayne@AA.com
+STREET:  99,Brand Street
+
+1st NAME:Romaine3
+2nd NAME:Chian
+Phone:   8875421256
+EMAIL:   Rian@AA.com
+STREET:  106,Raymond Street
+
